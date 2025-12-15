@@ -1,0 +1,115 @@
+{
+	"navlinks": [
+		{
+			"name": "Početna",
+			"url": "#hero"
+		},
+		{
+			"name": "O meni",
+			"url": "#about"
+		},
+		{
+			"name": "Kvalifikacije",
+			"url": "#qualification"
+		},
+		{
+			"name": "Projekti",
+			"url": "#project"
+		},
+		{
+			"name": "Kontakt",
+			"url": "#contact"
+		}
+	],
+	"hero": {
+		"name": "Luka Glomazić",
+		"title": "Bok, ja sam Luka Glomazić",
+		"typewriter": [
+			"Frontend Web Developer",
+			"Softverski Inženjer",
+			"Full Stack Developer",
+			"Kreativni Rješavatelj Problema"
+		],
+		"description": "🌟 Strastveni certificirani web developer i student računalnih znanosti 🎓, posvećen izradi korisnički prilagođenih web stranica i aplikacija 💻. Vješt u mnogim programskim jezicima 👨‍💻, pružam vrhunske, responzivne i vizualno atraktivne web stranice 🌐. Brzo učim i volim rješavati probleme 🤔, motiviran kreativnošću i strateškim razmišljanjem 💡. Trenutno tražim prilike za doprinos svojim vještinama i suradnju na dinamičnim projektima 🤝.",
+		"image": "",
+		"projectsCompleted": "15+",
+		"hireEmail": "lglomazic@uniri.hr",
+		"hireText": "Angažirajte me!"
+	},
+	"about": {
+		"title": "Profesionalni i Iskusni Softverski Developer.",
+		"description": "Fokusiran sam na kreiranje intuitivnih i učinkovitih softverskih rješenja koja zadovoljavaju potrebe klijenata i korisnika. Kada ne programiram, volim pratiti najnovije tehnološke trendove i usavršavati svoje vještine. Uvijek sam spreman za nove izazove i rad u timu kako bih pružio izvanredne rezultate."
+	},
+	"skills": {
+		"backend": ["PHP", "Node.js", "MongoDB", "MySQL"],
+		"frontend": [
+			"HTML",
+			"CSS",
+			"JavaScript",
+			"Bootstrap",
+			"React",
+			"Next JS"
+		]
+	},
+	"qualification": {
+		"experience": [
+			{
+				"title": "GLS dostavljač",
+				"description": "Rad u tvrtki GALIJA TRANS d.o.o. uključivao je zaprimanje i isporuku paketa, naplatu te rad sa strankama[cite: 20, 22].",
+				"date": "01. srpnja 2023. - 31. listopada 2024."
+			},
+			{
+				"title": "Skladištar",
+				"description": "Rad u tvrtki Jeruzalem d.o.o. obuhvaćao je rad u skladištu, organizaciju i distribuciju[cite: 16, 18].",
+				"date": "01. kolovoza 2021. - 15. rujna 2021."
+			}
+		],
+		"education": [
+			{
+				"title": "Student informatike",
+				"institution": "Nije navedeno",
+				"description": "Student informatike s velikim zanimanjem za softver i hardver. Istražuje nove tehnologije, programiranje i razvoj računalnih sustava[cite: 9].",
+				"date": "Trenutno"
+			},
+			{
+				"title": "Srednja škola",
+				"institution": "Srednja škola za elektrotehniku i računalstvo",
+				"description": "Smjer vezan uz elektrotehniku i računalstvo u Rijeci[cite: 28, 29].",
+				"date": "2019 - 2023"
+			},
+			{
+				"title": "Osnovna škola",
+				"institution": "Elementary school Kozala",
+				"description": "Osnovnoškolsko obrazovanje u Rijeci[cite: 25, 26].",
+				"date": "2010 - 2019"
+			}
+		]
+	},
+	"projects": [
+		{
+			"title": "FixIt Now",
+			"image": "assets/img/project1.webp",
+			"description": "Android aplikacija dizajnirana da korisnicima olakša pronalazak i rezervaciju lokalnih majstora za usluge poput vodoinstalaterskih i električarskih radova. Ključne značajke uključuju sustav rezervacija po satu, mogućnost označavanja omiljenih pružatelja usluga, opcije tamne/svijetle teme i podršku za više jezika (Engleski/Hrvatski). Projekt je izrađen u Java/Android SDK, s unit i UI testovima pomoću JUnit i Espresso.",
+			"liveLink": "#",
+			"githubLink": "#"
+		},
+		{
+			"title": "Suntracker",
+			"image": "assets/img/project2.webp",
+			"description": "Arduino uređaj koji prati kretanje sunca kako bi prilagodio položaj solarnih panela za maksimalno apsorbiranje energije. Projekt je uključivao 3D modeliranje dijelova u Fusion360, 3D ispis s PETG-om i lemljenje komponenti poput servo motora i LDR senzora. Firmware napisan u C++ računa razlike u intenzitetu svjetla kako bi automatski rotirao panel horizontalno i vertikalno.",
+			"liveLink": "#",
+			"githubLink": "#"
+		}
+	],
+	"contact": {
+		"email": "lglomazic@uniri.hr",
+		"phone": "+385955554444",
+		"social": {
+			"whatsapp": "https://api.whatsapp.com/send?phone=385955554444",
+			"instagram": "https://www.instagram.com/#",
+			"linkedin": "https://www.linkedin.com/in/#",
+			"github": "https://github.com/#",
+			"twitter": "https://twitter.com/#"
+		}
+	}
+}
